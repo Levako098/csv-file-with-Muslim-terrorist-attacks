@@ -30,7 +30,7 @@ File used: `RAND_Database_of_Worldwide_Terrorism_Incidents.csv` (≈40 000 incid
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/islamist-terrorism-rand-analysis.git
+git clone https://github.com/Levako098/csv-file-with-Muslim-terrorist-attacks.git
 cd islamist-terrorism-rand-analysis
 
 # 2. Download the data
