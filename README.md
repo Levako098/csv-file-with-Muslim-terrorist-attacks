@@ -41,4 +41,4 @@ cd islamist-terrorism-rand-analysis
 pip install pandas matplotlib
 
 # 4. Run the script
-python terrorism_rand_en.py
+python main.py
